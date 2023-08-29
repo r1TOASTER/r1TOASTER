@@ -17,8 +17,8 @@ Here are some of the projects I'm proud of:
 - [PulseHunter](https://github.com/r1TOASTER/PulseHunter) - network tools for checking ports.
 - [Chip-8Emu](https://github.com/r1TOASTER/Chip-8Emu) - Chip-8 Emulator, written in Rust.
 
-## My Stats: 
+## Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1TOASTER&show_icons=true&theme=onedark) 
 
-## My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r1TOASTER)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1TOASTER&layout=compact&show_icons=true&theme=tokyonight" />
